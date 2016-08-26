@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.collarjs.example.login.mobile" version="1.0.0">
+  <name>Collar.js Login Example</name>
+  <description>
+    A sample collar.js application.
+  </description>
+  <author email="daily.bhou@gmail.com" href="https://collarjs.com">
+    Bo HOU from collar.js
+  </author>
+</widget>
